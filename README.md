@@ -65,4 +65,4 @@ SOFTWARE TOOLS:
 
 *	XAMPP Apache distribution for php version - 5.6.30
 *	A browser with html5 support.
-*	Atom text editor.
+*	Any Code Editor (preferred Visual Studio Code)
