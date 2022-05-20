@@ -49,20 +49,20 @@ HARDWARE AND SOFTWARE REQUIREMENTS
 
 HARDWARE REQUIREMENTS:
 
-	PC with stable internet connection.
-	Minimum 350MB Hard Disk space for installation.
-	Recommended minimum CPU - Pentium 4, 3.2GHz.
-	Recommended 1 GB RAM for software tools.
+*	PC with stable internet connection.
+*	Minimum 350MB Hard Disk space for installation.
+*	Recommended minimum CPU - Pentium 4, 3.2GHz.
+*	Recommended 1 GB RAM for software tools.
 
 SOFTWARE REQUIREMENTS:
 
 
-	FRONTEND- HTML, CSS, JAVASCRIPT
-	BACKEND- PHP, phpMyAdmin, jQuery, ajax.
+*	FRONTEND- HTML, CSS, JAVASCRIPT
+*	BACKEND- PHP, phpMyAdmin, jQuery, ajax.
 
 
 SOFTWARE TOOLS:
 
-	XAMPP Apache distribution for php version - 5.6.30
-	A browser with html5 support.
-	Atom text editor.
+*	XAMPP Apache distribution for php version - 5.6.30
+*	A browser with html5 support.
+*	Atom text editor.
